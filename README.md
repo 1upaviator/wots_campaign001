@@ -9,5 +9,6 @@ To use, download the setup and sea_missions files and copy them to your "campaig
 
 CHANGE LOG: 
 Mod v1.0 - initial deployment of modified Watchtower campaign
+Mod v1.1 - removed issue with enemy submarines spawning at newhebrides (still determining cause of this)
 
 Tested on WotS v1.05 Beta

@@ -18,5 +18,6 @@ CHANGE LOG:
 * Mod v1.0.1 - removed issue with enemy submarines spawning at newhebrides (still determining cause of this)
 * Mod v1.0.2 - added a 15 minute post-engagement cooldown to air and sea encounters. Changed all track times to 15 minutes (to match previous). Reduced AI convoy/troop fleets further. Reintroduced enemy sub formations.
 * Mod v1.0.3 - added campaign descriptions, text, and intro. Updated readme to reflect folder download method.
+* Mod v1.0.4 - removed enemy sub formations (enemy submarine formation logic still broken).
 
 Tested on WotS v1.07 Beta
